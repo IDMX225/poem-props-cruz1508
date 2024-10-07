@@ -2,15 +2,30 @@
 @use "../abstracts/variables" as var;
 @use "../base/typography" as type;
 
+
+img {
+
+  padding-bottom: 20px;
+}
+
+hr {
+
+  padding: 5px;;
+
+}
 body {
   font-family: type.$font;
   background-color: var.$bg-very-light;
   width: min(100% - 2rem, 60ch);
   margin-inline: auto;
   margin-block: 4rem;
+  padding: 15px;
+  line-height: 1.6;
 }
 
 h1 {
   color: var.$primary-color;
   text-align: center;
+  padding-bottom: 10px;
+  
 }

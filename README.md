@@ -29,3 +29,7 @@ Use this as the "Publish command" if needed by hosting services such as Netlify.
 ## Resources
 
 <small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>
+
+The Photo is from - https://unsplash.com/photos/a-bird-is-standing-on-a-piece-of-wood-Je7j_pE5I8U
+
+The Poem is from - https://www.public-domain-poetry.com/william-wordsworth/poet-and-the-caged-turtledove-4525 
