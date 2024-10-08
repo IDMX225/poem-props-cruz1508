@@ -1,0 +1,11 @@
+@use "../abstracts/mixins" as mixins;
+body {
+  font-family: type.$font;
+  background-color: #808080;
+  width: min(100% - 2rem, 60ch);
+  margin-inline: auto;
+  margin-block: 4rem;
+  padding: 15px;
+  line-height: 1.6;
+  
+}
