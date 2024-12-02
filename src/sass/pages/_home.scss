@@ -20,7 +20,7 @@ body {
   margin-inline: auto;
   margin-block: 4rem;
   padding: 15px;
-  line-height: 1.6;
+  line-height: 1.8;
 }
 
 h1 {
@@ -31,6 +31,9 @@ h1 {
 }
 
 @media (prefers-color-scheme: dark) {
+  h1 {
+    color:#808080
+  }
   body {
     background-color: #333; 
   }
